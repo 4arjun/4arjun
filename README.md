@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a range of exciting projects, including developing innovative web applications and leveraging AI to enhance learning experiences. I'm looking to collaborate on cutting-edge technologies, particularly in AI-driven tools, web development, and cloud computing. I'm currently learning advanced data structures and algorithms to sharpen my problem-solving skills. Ask me about web development, AI integrations, or creative project ideas! Fun fact: I'm passionate about creating tools that make learning fun and accessible for everyone.
+I'm currently working on a range of exciting projects, including developing innovative web applications and leveraging AI to enhance learning experiences. I'm looking to collaborate on cutting-edge technologies, particularly in AI-driven tools, web development, and cloud computing. I'm currently learning advanced data structures and algorithms to sharpen my problem-solving skills.I'm passionate about creating tools that make learning fun and accessible for everyone.
 
 
 ## 🌐 Socials:
