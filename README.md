@@ -12,9 +12,7 @@ I'm currently working on a range of exciting projects, including developing inno
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4arjun&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4arjun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=4arjun&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=4arjun&base=823&color=blueviolet)
 
 
 
