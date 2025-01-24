@@ -62,11 +62,6 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
    <div align="center">
       
-<!--       <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" > -->
 <br>
 
    
-   
-
-   
-   [![GitHub followers](https://img.shields.io/github/followers/adamsyy.svg?style=social&label=Follow)](https://github.com/4arjun?tab=followers)
