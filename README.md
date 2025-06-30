@@ -42,16 +42,19 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://arjunajith.netlify.app/)    | Portfolio website build using HTML5, CSS3, JavaScript. 
-| [AmpPay](https://github.com/4arjun/AmpPay)     | AmpPay Your Portal to Sustainable Energy Management.
+| [My Portfolio Website](https://arjunajith.netlify.app/)    | Portfolio website built using HTML5, CSS3, and JavaScript. |
+| [AmpPay](https://github.com/4arjun/AmpPay)     | AmpPay is your portal to sustainable energy management. |
 | [TEDxMEC website](https://github.com/adamsyy/TEDxMEC-23)     | TEDxMEC is a website, inspiring change and exploring ideas through innovative talks and events. |
-| [Vitalia.ai](https://github.com/4arjun/Vitalia.ai)     | Vitalia.ai is an innovative app for tracking nutrition and health, helping users maintain a healthy lifestyle.
-| [Convovoice](https://github.com/4arjun/convovoice-backend)     | AI-powered platform designed to make language learning interactive and effective.
-| [Knowledger](https://github.com/4arjun/django-test/)     | An education platform that runs on decentralized chain (icp).
-| [MerchHub](https://merchhub.excelmec.org/)     |MerchHub is an online store for Excel MEC merchandise, offering branded products like shirts, hoodies, and bags for easy browsing and secure purchases.
- <h1 align="center">Let's Get Connected</h1>
+| [Vitalia.ai](https://github.com/4arjun/Vitalia.ai)     | An innovative app for tracking nutrition and health, helping users maintain a healthy lifestyle. |
+| [Convovoice](https://github.com/4arjun/convovoice-backend)     | AI-powered platform designed to make language learning interactive and effective. |
+| [Knowledger](https://github.com/4arjun/django-test/)     | An education platform that runs on a decentralized chain (ICP). |
+| [MerchHub](https://merchhub.excelmec.org/)     | Online store for Excel MEC merchandise, offering branded products like shirts, hoodies, and bags. |
+| [InterviewPrep](https://github.com/4arjun/InterviewPrep) | A collaborative platform for sharing coding interview questions, feedback, and mock interview sessions. |
+
+<h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/arjun-ajith-1ba937225/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Arjunajith__" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:arjunajith440@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
