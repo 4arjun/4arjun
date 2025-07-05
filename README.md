@@ -42,7 +42,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://arjunajith.netlify.app/)    | Portfolio website built using HTML5, CSS3, and JavaScript. |
+| [My Portfolio Website](https://arjunajith.me/)    | Portfolio website built using HTML5, CSS3, and JavaScript. |
 | [AmpPay](https://github.com/4arjun/AmpPay)     | AmpPay is your portal to sustainable energy management. |
 | [TEDxMEC website](https://github.com/adamsyy/TEDxMEC-23)     | TEDxMEC is a website, inspiring change and exploring ideas through innovative talks and events. |
 | [Vitalia.ai](https://github.com/4arjun/Vitalia.ai)     | An innovative app for tracking nutrition and health, helping users maintain a healthy lifestyle. |
