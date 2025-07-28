@@ -4,12 +4,16 @@
 
 Hey! I am Arjun, an engineering student, and a Coder. I love building backend systems with Django and crafting seamless user interfaces with React. I'm a quick learner, always eager to enhance my skills and gain more experience. As a student pursuing a degree in Computer Science, I'm excited to apply my knowledge and skills to solve real-world challenges. Let's build something impactful together! ⚡
 
-<h3 align="center">Full Stack Developer | Django x React</h3>
+<h3 align="center">Full Stack Developer | React x Django</h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=4arjun&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
+<!--
+<h3><p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=4arjun&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> 
+</p></h3>
+-->
    <div align="center">
 
-<h1>Technical Skills 🛠</h1>
+<h1>Technical Skills </h1>
    
 I have learned web development and have knowledge of HTML, CSS, JavaScript, React, Django, Docker, and Data Structures. I have worked on many production-level projects, including 1 internship as a Full Stack Developer.
 
