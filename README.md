@@ -4,7 +4,7 @@
 
 <img width="40%" align="right" src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg">
 
-I'm a final-year Computer Science student and full-stack engineer. I'm a **Top 15 contributor** to [Gumroad](https://github.com/antiwork/gumroad)'s open-source codebase (by merged PRs), with **25+ merged pull requests** spanning large-scale Inertia.js migrations, a **150x performance fix**, and root-cause debugging of race conditions and payment failures on a live platform used by 90k+ creators. Outside of that, I build backend systems with Django and REST APIs, and craft interfaces with React — and I'm always looking for the next hard problem to dig into. ⚡
+I'm a final-year Computer Science student and full-stack engineer. I'm a **Top 15 contributor** to [Gumroad](https://github.com/antiwork/gumroad)'s open-source codebase (by merged PRs), with **25+ merged pull requests** spanning large-scale Inertia.js migrations, a **150x performance fix**, and root-cause debugging of race conditions and payment failures on a live platform used by 90k+ creators. Outside of that, I build backend systems with Django and REST APIs, and craft interfaces with React — and I'm always looking for the next hard problem to dig into.
 
 <br clear="right"/>
 
@@ -83,17 +83,6 @@ I'm a final-year Computer Science student and full-stack engineer. I'm a **Top 1
 🥇 &nbsp;<b>Winner, BitWise Coding Competition</b> — 1st place among 200+ participants<br>
 🌍 &nbsp;<b>Millennium Fellow</b> — Selected for a global leadership program by the UN Academic Impact (UNAI) & MCN
 
-</p>
-
-<h1 align="center">GitHub Stats</h1>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=4arjun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4arjun&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4arjun&theme=tokyonight&hide_border=true" />
 </p>
 
 <h1 align="center">Let's Get Connected</h1>
