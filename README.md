@@ -10,7 +10,7 @@ I'm a final-year Computer Science student and full-stack engineer. I'm a **Top 1
 
 <h2 align="center">🚀 Open Source @ Gumroad</h2>
 
-<p align="center">Real, shipped, production-impact contributions to <a href="https://github.com/antiwork/gumroad">antiwork/gumroad</a> — a live SaaS platform.</p>
+<p align="center">Production-impact contributions to <a href="https://github.com/antiwork/gumroad">antiwork/gumroad</a> — a live SaaS platform.</p>
 
 - 🏆 **Top 15 contributor** to Gumroad Open Source by merged PRs, with **25+ PRs** merged across performance, reliability, and payments systems
 - ⚡ Migrated **5 major creator-facing pages** (Discover, Library/Reviews/Wishlists, UTM Analytics, PDF Reader, Video Streaming) from legacy Rails + React-on-Rails to **Inertia.js** — deferred props on the Discover page cut load time from **~5 seconds to near-instant**
