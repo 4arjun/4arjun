@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/4arjun/4arjun/main/header.png)
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/4arjun" target="_blank">Arjun Ajith</a></h1>
-<h3 align="center">Open Source Software Engineer @ Gumroad&nbsp;&nbsp;|&nbsp;&nbsp;Full-Stack Engineer (React × Django)&nbsp;&nbsp;|&nbsp;&nbsp;Final-Year CS Undergrad</h3>
+
 
 <img width="40%" align="right" src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg">
 
